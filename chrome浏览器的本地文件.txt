@@ -1,0 +1,5 @@
+	~/.config/google-chrome 
+
+	也就是把　google-chrome 文件夹放在~/.config目录下面 
+	chrome浏览器就可以使用曾经的数据了
+　　	比如：固定标签页...........
